@@ -1,0 +1,5 @@
+*.htaccess
+/.htaccess
+/sas-system/config/config.php
+/sas-system/install/
+/sas-content/uploads/
