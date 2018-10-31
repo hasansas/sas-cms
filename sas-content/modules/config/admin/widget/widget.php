@@ -238,7 +238,7 @@ if(count($arrPosition)>0){
 
 				$widgetPosition .= '
 
-					<li class="dd-item" data-id="'.$widgetID.'">
+					<li class="dd-item dd-nodrag" data-id="'.$widgetID.'">
 						<div class="dd-handle" data-id="'.$widgetID.'">
 							'.str_replace('_',' ',$widgetID).'
 							<span class="btn-handle pull-right" style="display:block">
